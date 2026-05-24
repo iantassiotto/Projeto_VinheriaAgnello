@@ -257,6 +257,7 @@ Projeto_VinheriaAgnello/
 │   ├── modelo3d.jpeg   # Modelo 3D da caixa (Tinkercad)
 │   └── circuito.png    # Circuito montado no Wokwi
 ├── codigo.cpp          # Código principal
+├── Encapsulamento...   # Projeto do Modelo 3D
 └── README.md           # Este arquivo
 ```
 
